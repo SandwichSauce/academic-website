@@ -73,11 +73,11 @@ skills:
       - name: MATLAB
         description: ''
         percent: 80
-        icon: matplotlib
+        icon: devicon/matplotlib
       - name: Python
         description: ''
         percent: 75
-        icon: python
+        icon: devicon/python
       - name: GraphPad
         description: ''
         percent: 70
