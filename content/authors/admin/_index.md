@@ -114,7 +114,7 @@ languages:
 awards:
   - title: 2024 International BCI AWARD - NOMINEE
     url: https://www.bci-award.com/2024
-    date: '2024-10-8'
+    date: '2024-10-08'
     awarder: BCI AWARD
     icon: customs/bciaward
     summary: |
@@ -151,3 +151,10 @@ Beyond research, I’m a big believer in living life to the fullest. I love tryi
 
 Let’s connect and make cool things happen!
 
+<!-- 大家好！我是一名来自浙江大学计算机科学与技术学院的直博生，目前在王跃明教授的指导下，专注于侵入式运动脑机接口（BCI）领域，主要研究运动意图的动态编解码方法。
+
+本科阶段我毕业于西北工业大学软件工程专业。读博期间，我参与构建了多个面向临床应用的脑机接口系统，包括国内首个闭环光标控制系统和全球首个可进行汉字书写的脑控机械臂应用。
+
+科研之外，我热爱生活，也喜欢尝试各种新鲜事物：自驾游、滑雪、航拍、潜水、烘焙、手作、书画、家装……总有一件事，让生活充满惊喜！
+
+欢迎联系我，一起创造点有趣的事情吧！ -->
