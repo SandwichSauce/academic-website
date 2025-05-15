@@ -61,51 +61,51 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-    button:
-      text: 'Defense PPT'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Defense PPT'
+    #   url: 'https://example.com'
   
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: MATLAB
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: "customs/matlab"
+      - name: Python
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 75
+        icon: "customs/python"
+      - name: GraphPad Prism
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 70
+        icon: "customs/graphpad"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton & Basketball
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Cat & Dog
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Calligraphy & Chinese painting
         description: ''
-        percent: 80
-        icon: camera
+        percent: 70
+        icon: "customs/brush"
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
