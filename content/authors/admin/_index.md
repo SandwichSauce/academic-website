@@ -73,11 +73,11 @@ skills:
       - name: MATLAB
         description: ''
         percent: 80
-        icon: "customs/matlab"
+        icon: "customs/graph"
       - name: Python
         description: ''
         percent: 75
-        icon: "customs/python"
+        icon: python
       - name: GraphPad Prism
         description: ''
         percent: 70
