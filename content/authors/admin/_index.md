@@ -73,7 +73,7 @@ skills:
       - name: MATLAB
         description: ''
         percent: 80
-        icon: "customs/graph"
+        icon: matlab
       - name: Python
         description: ''
         percent: 75
@@ -81,7 +81,7 @@ skills:
       - name: GraphPad Prism
         description: ''
         percent: 70
-        icon: "customs/graphpad"
+        icon: chart-bar-square
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -97,7 +97,7 @@ skills:
       - name: Calligraphy & Chinese painting
         description: ''
         percent: 70
-        icon: "customs/brush"
+        icon: paint-brush
 
 languages:
   - name: Chinese
