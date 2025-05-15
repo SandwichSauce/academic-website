@@ -59,10 +59,11 @@ education:
     summary: |
       Thesis on _Multi-Model Learning, Evolution, and Ensemble: Research on Dynamic Decoding of Invasive Motor Brain-Computer Interfaces_. Supervised by [Prof Yueming Wang](https://person.zju.edu.cn/ymwang).
     button:
-      - text: 'Read Thesis'
-        url: 'https://example.com'
-      - text: 'Defense PPT'
-        url: 'https://example.com'
+      text: 'Read Thesis'
+      url: 'https://example.com'
+    button:
+      text: 'Defense PPT'
+      url: 'https://example.com'
   
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
