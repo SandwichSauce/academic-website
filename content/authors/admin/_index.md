@@ -73,12 +73,12 @@ skills:
       - name: MATLAB
         description: ''
         percent: 80
-        icon: matlab
+        icon: matplotlib
       - name: Python
         description: ''
         percent: 75
         icon: python
-      - name: GraphPad Prism
+      - name: GraphPad
         description: ''
         percent: 70
         icon: chart-bar-square
@@ -94,7 +94,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Calligraphy & Chinese painting
+      - name: Calligraphy & Painting
         description: ''
         percent: 70
         icon: paint-brush
