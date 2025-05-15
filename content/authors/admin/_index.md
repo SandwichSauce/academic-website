@@ -73,7 +73,7 @@ skills:
       - name: MATLAB
         description: ''
         percent: 80
-        icon: devicon/matplotlib
+        icon: devicon/matlab
       - name: Python
         description: ''
         percent: 75
@@ -112,13 +112,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 2024 International BCI AWARD - NOMINEE
+    url: https://www.bci-award.com/2024
+    date: '2024-10-8'
+    awarder: BCI AWARD
+    icon: customs/bciaward
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      We demonstrated that the human motor cortex encodes complex handwriting movement by sequencing a small set of primitive states. The tuning function of neurons remains stable within states while varying largely among different states, which could be the key factor to inaccurate decoding. Based on this, we proposed state-dependent neural encoding and decoding computing models that better explained neural activities and handwriting trajectory decoding performance, enabling online decoding of recognizable Chinese characters.
+    certificate_url: https://www.datacamp.com
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -141,4 +142,12 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+Hi there! I’m a Ph.D. student at the College of Computer Science and Technology, Zhejiang University, where I’m fortunate to be advised by Prof. Yueming Wang. My research centers on invasive motor brain-computer interfaces (BCIs), with a focus on dynamic encoding and decoding of movement intention.
+
+Before that, I received my Bachelor’s degree in Software Engineering from Northwestern Polytechnical University. I’ve been involved in building clinically oriented BCI systems, including China’s first closed-loop invasive BCI for cursor control and the world’s first BCI-powered robotic arm that writes Chinese characters.
+
+Beyond research, I’m a big believer in living life to the fullest. I love trying out all kinds of new things—road trips, skiing, aerial photography, diving, baking, crafting, Chinese calligraphy and painting, even DIY home design. There's always something new to explore!
+
+Let’s connect and make cool things happen!
+
