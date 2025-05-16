@@ -3,7 +3,7 @@
 title: 祝歆韵
 
 # Name pronunciation (optional)
-name_pronunciation: Zhu Xinyun
+name_pronunciation: Zhù Xīnyùn
 
 # Full name (for SEO)
 first_name: Zhu
@@ -53,6 +53,10 @@ interests:
   - Computational Neuroscience
   - Artificial Intelligence
 
+# Short bio (displayed in user profile at end of posts)
+bio: I explore how invasive brain-computer interfaces can decode movement intent and bring thoughts into action.
+
+
 education:
   - area: PhD Computer Science
     institution: Zhejiang University
@@ -68,8 +72,7 @@ education:
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-      Credit Accumulation: 89.425 (Rank: 8/250).
-      Courses included:
+      Credit Accumulation: 89.425 (Rank: 8/250):
       - Engineering Mathematical Analysis: 98
       - Computational Methods: 96
       - Introduction to Electronic Technology: 96
@@ -78,6 +81,18 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+    - block: buttons
+      content:
+        buttons:
+          - title: Read my latest paper on LLMs
+            icon: brands/arxiv
+            url: https://arxiv.org/abs/2304.01852
+          - title: Watch my new YouTube video to achieve 20x productivity
+            icon: brands/youtube
+            url: https://youtube.com
+          - title: Connect with me on LinkedIn
+            icon: brands/linkedin
+            url: https://linkedin.com
   
 
 
@@ -129,6 +144,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: SPOTLIGHT POSTER AWARD
+    url: https://caai.cn/index.php?s=/home/article/detail/id/4390.html
+    certificate_url: https://www.datacamp.com
+    date: '2024-12-20'
+    awarder: The Chinese Conference on Brain-Machine Intelligence
+    icon: datacamp
+    summary: |
+      Leveraging the unique paradigm of Chinese character writing, this study uncovered a novel mechanism of sequential regulation in the brain’s encoding of complex motor sequences, based on activity in the human motor cortex. Building on this discovery, a state-dependent motor encoding and decoding model was developed, culminating in the creation of China’s first brain-controlled robotic arm system capable of writing Chinese characters.
   - title: BCI AWARD NOMINEE
     url: https://www.bci-award.com/2024
     date: '2024-10-08'
@@ -144,14 +167,7 @@ awards:
     icon: edx
     summary: |
       One critical problem in BCI systems is how to achieve robust control. The challenge lies in the variability of neural signals, that can be induced by: noises and variability of neural encoding associates with brain states. When neural signal changes, there can be decoding errors given a static neural decoder, exhibiting unstable BCI control. Ideally, a neural decoder should dynamically change along with changes in neural signals to achieve robust control. But how to achieve this? We propose a DyEnsemble model, which builds a pool of models to encode various neural functions, assigns the model weights dynamically according to the incoming neural signals, and assembles them in time with Bayesian model averaging rules. In this way, our decoder adjusts itself along with changes in neural signals. 
-  - title: SPOTLIGHT POSTER AWARD
-    url: https://caai.cn/index.php?s=/home/article/detail/id/4390.html
-    certificate_url: https://www.datacamp.com
-    date: '2024-12-20'
-    awarder: The Chinese Conference on Brain-Machine Intelligence
-    icon: datacamp
-    summary: |
-      Leveraging the unique paradigm of Chinese character writing, this study uncovered a novel mechanism of sequential regulation in the brain’s encoding of complex motor sequences, based on activity in the human motor cortex. Building on this discovery, a state-dependent motor encoding and decoding model was developed, culminating in the creation of China’s first brain-controlled robotic arm system capable of writing Chinese characters.
+  
 ---
 
 ## About Me
