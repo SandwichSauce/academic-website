@@ -37,8 +37,8 @@ profiles:
     url: https://github.com/SandwichSauce/academic-website/blob/main/assets/media/weixinQRcode.png
   - icon: brands/x
     url: https://x.com/Jessyzhubiubiu
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/SandwichSauce
   - icon: brands/linkedin
@@ -63,10 +63,25 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-    # button:
-    #   text: 'Defense PPT'
-    #   url: 'https://example.com'
+  - area: BEng Software Engineering
+    institution: Northwestern Polytechnical University
+    date_start: 2015-09-01
+    date_end: 2019-06-30
+    summary: |
+      Credit Accumulation: 89.425 (Rank: 8/250).
+      Courses included:
+      - Engineering Mathematical Analysis: 98
+      - Computational Methods: 96
+      - Introduction to Electronic Technology: 96
+      - Linear Algebra: 95
+      - Probability Theory: 94
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   
+
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
