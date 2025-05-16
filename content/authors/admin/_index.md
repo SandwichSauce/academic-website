@@ -84,7 +84,7 @@ education:
     - text: 'Final Project Report'
       url: 'https://example.com/final-report'
     
-- block: buttons
+block: buttons
   content:
     buttons:
       - title: Read my latest paper on LLMs
