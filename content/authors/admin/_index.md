@@ -33,6 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:11921064@zju.edu.cn'
     label: E-mail Me
+  - icon: brands/weixin
+    url: https://github.com/SandwichSauce/academic-website/blob/main/assets/media/weixinQRcode.png
   - icon: brands/x
     url: https://x.com/Jessyzhubiubiu
   - icon: brands/instagram
@@ -112,22 +114,22 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 2024 International BCI AWARD - NOMINEE
+  - title: BCI AWARD NOMINEE
     url: https://www.bci-award.com/2024
     date: '2024-10-08'
-    awarder: BCI AWARD
+    awarder: 2024 International BCI AWARD
     icon: "customs/bciaward"
     summary: |
       We demonstrated that the human motor cortex encodes complex handwriting movement by sequencing a small set of primitive states. The tuning function of neurons remains stable within states while varying largely among different states, which could be the key factor to inaccurate decoding. Based on this, we proposed state-dependent neural encoding and decoding computing models that better explained neural activities and handwriting trajectory decoding performance, enabling online decoding of recognizable Chinese characters.
     certificate_url: https://www.datacamp.com
-  - title: The 3rd International Workshop on Neural Engineering and Rehabilitation - BEST POSTER AWARD
+  - title: BEST POSTER AWARD
     url: https://www.zjbmi.com/workshop-ner2022/
     date: '2022-05-09'
     awarder: The 3rd International Workshop on Neural Engineering and Rehabilitation
     icon: edx
     summary: |
       One critical problem in BCI systems is how to achieve robust control. The challenge lies in the variability of neural signals, that can be induced by: noises and variability of neural encoding associates with brain states. When neural signal changes, there can be decoding errors given a static neural decoder, exhibiting unstable BCI control. Ideally, a neural decoder should dynamically change along with changes in neural signals to achieve robust control. But how to achieve this? We propose a DyEnsemble model, which builds a pool of models to encode various neural functions, assigns the model weights dynamically according to the incoming neural signals, and assembles them in time with Bayesian model averaging rules. In this way, our decoder adjusts itself along with changes in neural signals. 
-  - title: The Chinese Conference on Brain-Machine Intelligence - SPOTLIGHT POSTER AWARD
+  - title: SPOTLIGHT POSTER AWARD
     url: https://caai.cn/index.php?s=/home/article/detail/id/4390.html
     certificate_url: https://www.datacamp.com
     date: '2024-12-20'
