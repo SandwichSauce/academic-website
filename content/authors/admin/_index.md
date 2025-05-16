@@ -78,11 +78,9 @@ education:
       - Introduction to Electronic Technology: 96
       - Linear Algebra: 95
       - Probability Theory: 94
-    buttons:
-    - text: 'View Transcript'
+    button:
+      text: 'View Transcript'
       url: 'https://example.com/transcript'
-    - text: 'Final Project Report'
-      url: 'https://example.com/final-report'
     
 # block: buttons
 #   content:
