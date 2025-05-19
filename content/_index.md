@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am a researcher in the field of brain-computer interfaces (BCIs), with a focus on invasive neural encoding and decoding for motor restoration. My work aims to understand and leverage the neural mechanisms underlying movement and language to develop next-generation neuroprosthetics.
+
+        I lead a translational BCI project involving invasive electrophysiological recordings. My research integrates neuroscience, biomedical engineering, and machine learning to advance both scientific discovery and clinical application.
+
+        I’m always open to collaboration in the areas of neural signal processing, BCI systems, and neurotechnology. Feel free to reach out! 😃
+
     design:
       columns: '1'
   - block: collection
