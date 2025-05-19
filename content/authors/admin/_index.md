@@ -3,7 +3,7 @@
 title: 祝歆韵
 
 # Avatar file
-avatar: avatar.jpg
+# avatar: avatar.jpg
 
 # Name pronunciation (optional)
 name_pronunciation: Zhù Xīnyùn
@@ -57,7 +57,7 @@ interests:
   - Artificial Intelligence
 
 # Short bio (displayed in user profile at end of posts)
-bio: I explore how invasive brain-computer interfaces can decode movement intent and bring thoughts into action.
+# bio: I explore how invasive brain-computer interfaces can decode movement intent and bring thoughts into action.
 
 
 education:
@@ -179,11 +179,11 @@ awards:
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 Hi there! I’m a Ph.D. student at the College of Computer Science and Technology, Zhejiang University, where I’m fortunate to be advised by Prof. Yueming Wang. My research centers on invasive motor brain-computer interfaces (BCIs), with a focus on dynamic encoding and decoding of movement intention.
 
-<!-- Before that, I received my Bachelor’s degree in Software Engineering from Northwestern Polytechnical University. I’ve been involved in building clinically oriented BCI systems, including China’s first closed-loop invasive BCI for cursor control and the world’s first BCI-powered robotic arm that writes Chinese characters.
+Before that, I received my Bachelor’s degree in Software Engineering from Northwestern Polytechnical University. I’ve been involved in building clinically oriented BCI systems, including China’s first closed-loop invasive BCI for cursor control and the world’s first BCI-powered robotic arm that writes Chinese characters.
 
 Beyond research, I’m a big believer in living life to the fullest. I love trying out all kinds of new things—road trips, skiing, aerial photography, diving, baking, crafting, Chinese calligraphy and painting, even DIY home design. There's always something new to explore!
 
-Let’s connect and make cool things happen! -->
+Let’s connect and make cool things happen!
 
 <!-- 大家好！我是一名来自浙江大学计算机科学与技术学院的直博生，目前在王跃明教授的指导下，专注于侵入式运动脑机接口（BCI）领域，主要研究运动意图的动态编解码方法。
 
