@@ -2,6 +2,9 @@
 # Display name
 title: 祝歆韵
 
+# Avatar file
+avatar: avatar.jpg
+
 # Name pronunciation (optional)
 name_pronunciation: Zhù Xīnyùn
 
