@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: blob-scene-haikei.svg
+          filename: wave-haikei (2).svg
           filters:
             brightness: 1.0
           size: cover
