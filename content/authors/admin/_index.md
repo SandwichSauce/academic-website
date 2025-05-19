@@ -2,9 +2,6 @@
 # Display name
 title: 祝歆韵
 
-# Avatar file
-# avatar: avatar.jpg
-
 # Name pronunciation (optional)
 name_pronunciation: Zhù Xīnyùn
 
@@ -57,7 +54,7 @@ interests:
   - Artificial Intelligence
 
 # Short bio (displayed in user profile at end of posts)
-# bio: I explore how invasive brain-computer interfaces can decode movement intent and bring thoughts into action.
+bio: I explore how invasive brain-computer interfaces can decode movement intent and bring thoughts into action.
 
 
 education:
