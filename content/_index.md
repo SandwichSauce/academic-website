@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: blob-scene-haikei (3).svg
+          filename: blob-scene-haikei (2).svg
           filters:
             brightness: 1.0
           size: cover
@@ -41,6 +41,23 @@ sections:
         I lead a translational BCI project involving invasive electrophysiological recordings. My research integrates neuroscience, biomedical engineering, and machine learning to advance both scientific discovery and clinical application.
 
         I’m always open to collaboration in the areas of neural signal processing, BCI systems, and neurotechnology. Feel free to reach out! 😃
+
+
+
+        # I am a researcher in the field of brain-computer interfaces (BCIs), with a focus on invasive neural decoding and neuromodulation for motor and speech restoration. My work aims to understand and leverage the neural mechanisms underlying movement and language to develop next-generation neuroprosthetics.
+
+        # I lead a translational BCI project involving invasive electrophysiological recordings and closed-loop stimulation. My research integrates neuroscience, biomedical engineering, and machine learning to advance both scientific discovery and clinical application.
+
+        # I’m always open to collaboration in the areas of neural signal processing, BCI systems, and neurotechnology. Feel free to reach out!
+
+
+        # 我主要从事脑-机接口（BCI）领域的研究，重点关注用于运动与语言功能恢复的侵入式神经解码与神经调控。我的研究目标是探索并利用大脑中控制运动与语言的神经机制，以推动下一代神经假体的发展。
+
+        # 目前我负责一个以侵入式脑电记录和闭环刺激为核心的 BCI 转化研究项目，研究内容融合了神经科学、生物医学工程与机器学习。
+
+        # 我欢迎在神经信号处理、BCI 系统开发及神经技术等方向的合作，欢迎联系我！
+
+
 
     design:
       columns: '1'
