@@ -1,7 +1,7 @@
 ---
 title: Tracking functional changes in nonstationary signals with evolutionary ensemble bayesian model for robust neural decoding
 authors:
-- Xinyun Zhu
+- admin
 - Yu Qi
 - Gang Pan
 - Yueming Wang
