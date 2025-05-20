@@ -39,18 +39,18 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
+- name: Link
   url: https://www.nature.com/articles/s41562-025-02157-x
 
 
 url_pdf: ''
 url_code: 'https://zenodo.org/records/14865736'
 url_dataset: ''
-url_poster: 'https://github.com/SandwichSauce/academic-website/tree/main/content/publication/2025-NHB-human/2025-NHB-human-poster.pdf'
+url_poster: 'https://github.com/SandwichSauce/academic-website/tree/main/content/publication/2025-nhb-human/2025-nhb-human-poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://github.com/SandwichSauce/academic-website/tree/main/content/publication/2025-NHB-human/2025-NHB-human-video.mp4'
+url_video: 'https://github.com/SandwichSauce/academic-website/tree/main/content/publication/2025-nhb-human/2025-nhb-human-video.mp4'
 
 
 
