@@ -31,6 +31,7 @@ summary: The human motor cortex encodes complex handwriting by transitioning thr
 
 tags:
   - Neuroscience
+  - Motor Cortex
   - Brain-Computer Interface
   - Handwriting
 
@@ -39,7 +40,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Link
+- name: Paper
   url: https://www.nature.com/articles/s41562-025-02157-x
 
 
