@@ -67,7 +67,7 @@ url_slides: 'https://github.com/SandwichSauce/academic-website/tree/main/content
 url_source: ''
 url_video: 'https://github.com/SandwichSauce/academic-website/tree/main/content/publication/2022-tbme-dynamic/2022-tbme-dynamic-video.mp4'
 
-
+---
 
 ---
 

@@ -43,7 +43,7 @@ url_slides: 'https://github.com/SandwichSauce/academic-website/tree/main/content
 url_source: ''
 url_video: 'https://slideslive.com/38991263/tracking-functional-changes-in-nonstationary-signals-with-evolutionary-ensemble-bayesian-model-for-robust-neural-decoding?ref=speaker-113554'
 
-
+---
 
 ---
 
