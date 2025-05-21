@@ -82,7 +82,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
 ---
 
-Neural Encoding of Fine Motor Control: A Study on Handwriting
+🔶 Neural Encoding of Fine Motor Control: A Study on Handwriting 🔶
 
 ---
 

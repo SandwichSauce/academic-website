@@ -61,9 +61,13 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+
 ---
 
-### 🧠 Understanding Neural Encoding and Decoding in Motor Cortex
+🔶 Understanding Neural Encoding and Decoding in Motor Cortex 🔶
+
+---
+
 
 ## 🎯 Research Goal
 Understanding how **motor cortex (MC)** encodes and decodes **movement behaviors** is a **fundamental goal of neuroscience**  

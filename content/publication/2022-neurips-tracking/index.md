@@ -45,9 +45,13 @@ url_video: 'https://slideslive.com/38991263/tracking-functional-changes-in-nonst
 
 
 
+---
+
+🔶 Coping with Neural Signal Nonstationarity in Brain-Computer Interfaces: The EvoEnsemble Approach 🔶
 
 ---
-# Coping with Neural Signal Nonstationarity in Brain-Computer Interfaces: The EvoEnsemble Approach
+
+
 
 ## 🔄 Background: Nonstationary Neural Signals
 

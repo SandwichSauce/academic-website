@@ -14,8 +14,14 @@ publication_types:
 
 publication: '*PATENT COOPERATION TREATY*'
 publication_short: 'PCT'
+
+
 ---
-### 🧠 Intracortical Brain-Computer Interfaces and Neural Decoding
+
+🔶 Intracortical Brain-Computer Interfaces and Neural Decoding 🔶
+
+---
+
 
 ## 📌 Overview
 

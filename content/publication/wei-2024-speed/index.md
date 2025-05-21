@@ -44,9 +44,12 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
 ---
 
-# 🧠 Recalibration of Neural Decoders in Brain-Computer Interfaces: The SSAR Framework
+🔶 Recalibration of Neural Decoders in Brain-Computer Interfaces: The SSAR Framework 🔶
+
+---
 
 ## 1. 🔍 Background and Motivation
 

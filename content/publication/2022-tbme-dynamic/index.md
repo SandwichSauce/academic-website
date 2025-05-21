@@ -70,7 +70,10 @@ url_video: 'https://github.com/SandwichSauce/academic-website/tree/main/content/
 
 
 ---
-# 🧠 Brain-Machine Interfaces (BMIs): Challenges and a Dynamic Decoding Solution
+
+🔶 Brain-Machine Interfaces (BMIs): Challenges and a Dynamic Decoding Solution 🔶
+
+---
 
 ## 🚀 Motivation: Restoring Mobility with BMIs
 

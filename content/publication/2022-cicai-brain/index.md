@@ -60,7 +60,10 @@ url_video: 'https://github.com/SandwichSauce/academic-website/tree/main/content/
 
 
 ---
-# Enhancing BCI-Based Human-Computer Interaction with AI: A Case Study in Mahjong Gaming
+
+🔶 Enhancing BCI-Based Human-Computer Interaction with AI: A Case Study in Mahjong Gaming 🔶
+
+---
 
 ## 🧠 What is BCI?
 
