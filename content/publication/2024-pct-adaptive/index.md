@@ -15,6 +15,7 @@ publication_types:
 publication: '*PATENT COOPERATION TREATY*'
 publication_short: 'PCT'
 
+---
 
 ---
 
