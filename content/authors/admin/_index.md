@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 祝歆韵
+title: Xinyun Zhu
 
 # Name pronunciation (optional)
-name_pronunciation: Zhù Xīnyùn
+name_pronunciation: （祝歆韵）
 
 # Full name (for SEO)
 first_name: Zhu
