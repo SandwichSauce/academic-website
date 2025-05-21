@@ -15,7 +15,7 @@ publication_types:
 publication: '*PATENT COOPERATION TREATY*'
 publication_short: 'PCT'
 ---
-# 🧠 Intracortical Brain-Computer Interfaces and Neural Decoding
+### 🧠 Intracortical Brain-Computer Interfaces and Neural Decoding
 
 ## 📌 Overview
 
@@ -32,10 +32,10 @@ Among them, **intracortical BCIs**—which use **implanted electrode arrays**—
 Neural decoding algorithms are **central to intracortical BCI systems**.  
 They translate neural activity into meaningful control signals using methods like:
 
-- 📈 **Population Vector Methods**
+- 📈 **Population Vector Methods (PVA)**
 - 📊 **Optimal Linear Estimation (OLE)**
-- 🤖 **Deep Neural Networks**
-- 🔁 **Recursive Bayesian Decoders**
+- 🤖 **Deep Neural Networks (DNN)**
+- 🔁 **Recursive Bayesian Decoders (KF/PF)**
 
 > ✅ Among these, the **Kalman Filter** is the **most widely used** in **online cursor and exoskeleton control**, as it incorporates motion dynamics as **prior knowledge**, leading to **state-of-the-art performance**.
 
@@ -48,7 +48,7 @@ A notable real-world implementation is documented in **Chinese Patent CN10766941
 ### 🧩 System Components
 
 - 🧠 EEG signal acquisition system  
-- 🧠 Decoding device with:
+- ⚙️ Decoding device with:
   - **Continuous motor imagery module**
   - **Brisk motor imagery module**
 - 🦽 Electric wheelchair
@@ -63,7 +63,7 @@ Despite progress, **neural decoding still suffers from instability**, particular
 
 ### 🔍 Causes of Instability
 
-- 🔊 **Neuronal noise**
+- 💥 **Neuronal noise**
 - ❌ **Signal dropout**
 - 🔄 **Plasticity and shifting brain states**
 
@@ -76,7 +76,7 @@ Despite progress, **neural decoding still suffers from instability**, particular
 
 ---
 
-## 🧠 Decoder Strategies for Neural Variability
+## 💡 Decoder Strategies for Neural Variability
 
 ### 1. 🔁 Fixed Models + Recalibration
 
@@ -84,7 +84,7 @@ Despite progress, **neural decoding still suffers from instability**, particular
 - ✅ Pros: Simplicity, widely tested
 - ❌ Cons: Labor-intensive, poor adaptability
 
-### 2. 📡 Dynamic Models
+### 2. 〰 Dynamic Models
 
 - **Track and adapt** to neural signal changes
 - Offer potential for **long-term robustness**
