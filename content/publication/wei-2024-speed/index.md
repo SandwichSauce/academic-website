@@ -4,7 +4,7 @@ title: Speed-enhanced Subdomain Alignment for Long-term Stable Neural Decoding i
 authors:
 - Jiyu Wei
 - Dazhong Rong
-- Xinyun Zhu
+- admin
 - Qinming He
 - Yueming Wang
 date: '2024-01-01'
