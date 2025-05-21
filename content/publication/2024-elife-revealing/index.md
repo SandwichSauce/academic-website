@@ -12,7 +12,7 @@ publication_types:
 - article-journal
 publication: '*eLife*'
 
-publication_short: 'CICAI'
+publication_short: 'eLife'
 
 abstract: In motor cortex, behaviorally relevant neural responses are entangled
    with irrelevant signals, which complicates the study of encoding and
@@ -39,9 +39,9 @@ abstract: In motor cortex, behaviorally relevant neural responses are entangled
 summary: A framework is proposed to separate and analyze behaviorally relevant neural signals, revealing that previously overlooked neural responses encode rich information and suggesting that motor behaviors occupy a higher-dimensional space than expected and can be decoded linearly.
 
 tags:
+  - Neuroscience
   - Brain-Computer Interface
-  - Decoding Algorithm
-  - Mahjong Game
+  - Behaviorally Relevant
 
 featured: true
 
@@ -49,16 +49,16 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: https://link.springer.com/chapter/10.1007/978-3-031-20503-3_47
+  url: https://elifesciences.org/articles/87881#content
 
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/eric0li/d-VAE'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://github.com/SandwichSauce/academic-website/tree/main/content/publication/2024-elife-revealing/2024-elife-revealing-poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://github.com/SandwichSauce/academic-website/tree/main/content/publication/2022-cicai-brain/2022-cicai-brain-video.mov'
+url_video: ''
 
 ---
