@@ -64,14 +64,13 @@ url_video: 'https://slideslive.com/38991263/tracking-functional-changes-in-nonst
   - Leads to **degradation in decoding accuracy over time**
 
 ---
-
 ## 📘 Neural Encoding as a Time-Varying Function
 
 The neural encoding process can be formulated as:
 
-$$
+\[
 y_t = h_t(x_t) + q_t
-$$
+\]
 
 Where:
 - \( y_t \): observed neural signal at time \( t \)
@@ -81,9 +80,9 @@ Where:
 
 Most traditional decoders (e.g., OLE, Kalman Filter) assume a **stationary** encoding function:
 
-$$
+\[
 h_t(\cdot) \equiv h_0(\cdot), \quad \forall t \in \{1, 2, 3, \ldots\}
-$$
+\]
 
 However, in **online BCI systems**, studies have shown that:
 - \( h_t(\cdot) \) changes significantly over time
