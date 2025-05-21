@@ -5,8 +5,13 @@ event: 2024 International BCI AWARD
 event_url: https://www.bci-award.com/2024
 
 location: Online
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-# icon: "customs/bciaward"
 summary: We demonstrated that the human motor cortex encodes complex handwriting movement by sequencing a small set of primitive states. The tuning function of neurons remains stable within states while varying largely among different states, which could be the key factor to inaccurate decoding. Based on this, we proposed state-dependent neural encoding and decoding computing models that better explained neural activities and handwriting trajectory decoding performance, enabling online decoding of recognizable Chinese characters.
 abstract: We demonstrated that the human motor cortex encodes complex handwriting movement by sequencing a small set of primitive states. The tuning function of neurons remains stable within states while varying largely among different states, which could be the key factor to inaccurate decoding. Based on this, we proposed state-dependent neural encoding and decoding computing models that better explained neural activities and handwriting trajectory decoding performance, enabling online decoding of recognizable Chinese characters.
 
@@ -17,6 +22,11 @@ authors:
 
 # Is this a featured award? (true/false)
 featured: true
+
+url_code: 'https://github.com'
+url_pdf: ''
+url_slides: 'https://slideshare.net'
+url_video: 'https://youtube.com'
 
 
 # location: Hugo Blox Builder HQ
