@@ -36,7 +36,7 @@ abstract: In motor cortex, behaviorally relevant neural responses are entangled
 
 
 # Summary. An optional shortened abstract.
-summary: A framework is proposed to separate and analyze behaviorally relevant neural signals, revealing that previously overlooked neural responses encode rich information and suggesting that motor behaviors occupy a higher-dimensional space than expected and can be decoded linearly.
+summary: eLife | A framework is proposed to separate and analyze behaviorally relevant neural signals, revealing that previously overlooked neural responses encode rich information and suggesting that motor behaviors occupy a higher-dimensional space than expected and can be decoded linearly.
 
 tags:
   - Neuroscience

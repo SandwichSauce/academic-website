@@ -27,7 +27,7 @@ abstract: How the human motor cortex (MC) orchestrates sophisticated sequences o
 
 
 # Summary. An optional shortened abstract.
-summary: The human motor cortex encodes complex handwriting by transitioning through neural states, each with distinct directional tuning, enabling accurate reconstruction of written characters.
+summary: Nat Hum Behav | The human motor cortex encodes complex handwriting by transitioning through neural states, each with distinct directional tuning, enabling accurate reconstruction of written characters.
 
 tags:
   - Neuroscience
