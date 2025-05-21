@@ -15,72 +15,86 @@ publication_types:
 publication: '*PATENT COOPERATION TREATY*'
 publication_short: 'PCT'
 ---
-# Intracortical Brain-Computer Interfaces and Neural Decoding
+# 🧠 Intracortical Brain-Computer Interfaces and Neural Decoding
 
-## Overview
+## 📌 Overview
 
-Brain-computer interfaces (BCIs) enable **direct decoding of motion intentions** from neural signals for external device control.  
-**Intracortical BCIs**, which utilize implanted electrode arrays, have greatly advanced the development of:
-- **Exoskeleton devices**
-- **Computer cursor control**
+**Brain-Computer Interfaces (BCIs)** enable the **direct decoding of motion intentions** from neural activity for external control.  
+Among them, **intracortical BCIs**—which use **implanted electrode arrays**—have notably advanced applications such as:
 
-## Role of Neural Decoding Algorithms
+- 🦾 **Exoskeleton control**
+- 🖱️ **Computer cursor navigation**
+
+---
+
+## 🧩 Role of Neural Decoding Algorithms
 
 Neural decoding algorithms are **central to intracortical BCI systems**.  
-Various algorithms have been proposed to extract motion-related information, including:
+They translate neural activity into meaningful control signals using methods like:
 
-- **Population Vector Methods**
-- **Optimal Linear Estimation (OLE)**
-- **Deep Neural Networks**
-- **Recursive Bayesian Decoders**
+- 📈 **Population Vector Methods**
+- 📊 **Optimal Linear Estimation (OLE)**
+- 🤖 **Deep Neural Networks**
+- 🔁 **Recursive Bayesian Decoders**
 
-> ✅ Among these, the **Kalman Filter** is widely used in **online cursor and exoskeleton control** due to its integration of motion dynamics as prior knowledge, achieving the best performance so far.
+> ✅ Among these, the **Kalman Filter** is the **most widely used** in **online cursor and exoskeleton control**, as it incorporates motion dynamics as **prior knowledge**, leading to **state-of-the-art performance**.
 
-## Example: EEG-Based BCI System (Chinese Patent: CN107669416A)
+---
 
-A representative application is disclosed in **Chinese patent CN107669416A**, which describes a **wheelchair system** based on **motor imagery EEG decoding**.  
-System components include:
-- EEG signal acquisition system
-- Decoding device (with continuous and brisk motor imagery decoding modules)
-- Electric wheelchair
+## 🇨🇳 Example: EEG-Based BCI System (Patent CN107669416A)
 
-Each decoding module processes a specific type of EEG signal, enhancing system responsiveness and flexibility.
+A notable real-world implementation is documented in **Chinese Patent CN107669416A**, describing a **motor imagery-based EEG wheelchair control system**.
 
-## Challenge: Neural Signal Unstability
+### 🧩 System Components
 
-Despite advancements, **signal instability** remains a major challenge in neural decoding.
+- 🧠 EEG signal acquisition system  
+- 🧠 Decoding device with:
+  - **Continuous motor imagery module**
+  - **Brisk motor imagery module**
+- 🦽 Electric wheelchair
 
-### Causes of Instability
+> Each module targets a specific EEG pattern, enhancing **responsiveness** and **system flexibility**.
 
-- **Neuronal noise**
-- **Neuronal signal dropout**
-- **Neuronal plasticity and changing brain states**
+---
 
-> ⚠️ As a result, the **neural signal-to-kinematic mapping** may change over time, making **fixed decoding models unreliable** during long-term usage.
+## ⚠️ Challenge: Neural Signal Instability
 
-### Consequences
+Despite progress, **neural decoding still suffers from instability**, particularly over long durations.
 
-- Decoding accuracy **degrades over time**
-- Fixed models must be **frequently retrained**
+### 🔍 Causes of Instability
 
-## Decoder Categories: Coping with Neural Variability
+- 🔊 **Neuronal noise**
+- ❌ **Signal dropout**
+- 🔄 **Plasticity and shifting brain states**
 
-### 1. Fixed Models with Recalibration
+> ⚠️ These factors **alter the neural-to-kinematic mapping** over time, making **static decoding models ineffective** in long-term use.
 
-- Most common approach
-- Rely on **periodic retraining** or **incremental parameter updates**
-- **Pros**: Simple, proven
-- **Cons**: High cost of retraining, poor adaptability
+### 📉 Consequences
 
-### 2. Dynamic Models for Signal Tracking
+- **Performance degrades** over time  
+- **Frequent retraining** of models is required
 
-- **Adaptively track changes** in neural signals
-- Better suited for **long-term decoding**
-- Still **underexplored**, especially in directly modeling **unstable signals**
+---
 
-## Research Problem
+## 🧠 Decoder Strategies for Neural Variability
 
-> 🧠 **Key Open Question**:  
-How can we use **dynamic models** to effectively model **unstable neural signals** and achieve **robust decoding performance** in motor neural decoding?
+### 1. 🔁 Fixed Models + Recalibration
 
-This is a **pressing challenge** in the development of reliable and long-lasting motor decoding systems in BCIs.
+- Use **periodic retraining** or **incremental updates**
+- ✅ Pros: Simplicity, widely tested
+- ❌ Cons: Labor-intensive, poor adaptability
+
+### 2. 📡 Dynamic Models
+
+- **Track and adapt** to neural signal changes
+- Offer potential for **long-term robustness**
+- 🚧 Still underexplored, especially for **direct modeling of unstable signals**
+
+---
+
+## ❓ Research Problem
+
+> 🧠 **Key Question**:  
+How can we design **dynamic neural decoders** that effectively model **unstable neural signals** and provide **robust motor decoding** over time?
+
+This represents a **pressing challenge** for developing **reliable, long-term intracortical BCI systems**.

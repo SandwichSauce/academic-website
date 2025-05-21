@@ -60,9 +60,57 @@ url_video: 'https://github.com/SandwichSauce/academic-website/tree/main/content/
 
 
 ---
+# Enhancing BCI-Based Human-Computer Interaction with AI: A Case Study in Mahjong Gaming
 
-Brain-computer interface (BCI) establishes a pathway from the brain to external devices such as computers and neuroprosthetics. Especially, BCI provides a novel way of human-computer interaction, which gives rise to new applications such as BCI typewriters and BCI games.
+## 🧠 What is BCI?
 
-The challenge of current BCIs lies in the limited bandwidth and low precision in control. In continuous control tasks, the state-of-the-art non-invasive BCIs could mind-control a robotic arm to continuously track and follow a computer cursor. Invasive BCIs demonstrated higher bandwidth compared with non-invasive ones, while the control performance is far behind natural motor controls. Meanwhile, the nonstationary property of neural signals leads to unstable BCI control. With the limitations of BCI systems, the system design and the user interaction process play an important role in leveraging the performance of BCIs. To improve the easy-of-use of BCI systems, efforts have been made. Several studies design special typewriter interfaces to facilitate BCI-based interactions. The Berlin Brain-Computer Interface presents the novel mental typewriter Hex-o-Spell which uses an appealing visualization based on hexagons, and improves the bandwidth of BCI systems. Some approaches design games specifically tailored to the characteristics of direct brain-to-computer interaction. Besides, a few studies involve AI language model to improve performance of BCI communication system.
+**Brain-Computer Interface (BCI)** provides a **direct pathway** between the brain and external devices (e.g., computers, neuroprosthetics).  
+- Enables **novel human-computer interaction**.
+- Applications include:
+  - 📝 BCI typewriters  
+  - 🎮 BCI games
 
-Inspired by studies mentioned above, this study proposes an artificial intelligence augmentation approach to improve the human-computer interaction with a BCI system. We propose a BCI mahjong game with artificial intelligence assistance to improve the easy-of-use of BCI system. As the user plays the game, an AI system helps suggest optimal candidate options. Instead of directly choosing a tile from the tiles in hand, which usually requires delicate operations, the user can choose from the candidate options. In this way, the difficulty of operation can be highly reduced. A user can play the mahjong game with easy control, such that improves the user experience.
+---
+
+## ⚠️ Current Challenges in BCI
+
+### 1. **Limited Bandwidth and Control Precision**
+- **Non-invasive BCIs**: Can control robotic arms to track cursors, but bandwidth is limited.
+- **Invasive BCIs**: Offer **higher bandwidth**, but still lag behind **natural motor control**.
+
+### 2. **Signal Instability**
+- **Neural signals are nonstationary**, causing **unstable control performance**.
+
+---
+
+## 🛠️ Efforts to Improve BCI Usability
+
+### 🔡 Interface Design
+- **Typewriter Interfaces**:
+  - Example: *Hex-o-Spell* (Berlin BCI)  
+    - Uses **hexagonal visual layout**.
+    - Enhances **bandwidth and usability**.
+
+### 🎮 Game-Based Interaction
+- **Games tailored to BCI features** make control more natural and engaging.
+
+### 🤖 AI Integration
+- Recent studies incorporate **AI language models** to assist in **BCI-based communication**.
+
+---
+
+## 💡 Proposed Approach: AI-Augmented BCI Mahjong Game
+
+### Objective
+Enhance the **ease-of-use and experience** of BCI control in gaming.
+
+### System Design
+- **BCI Mahjong Game** + **AI Assistant**
+- Instead of picking a tile directly, the system:
+  - 📌 Suggests **optimal candidate options**.
+  - ✅ User selects from these options—reduces fine control effort.
+
+### Advantages
+- 🎯 **Simplifies user operation**.
+- 🙌 **Improves user experience**.
+- 🎮 **Makes BCI gaming more accessible and enjoyable**.
