@@ -81,7 +81,82 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
+# Neural Encoding of Fine Motor Control: A Study on Handwriting
 
-Humans are superb at controlling sophisticated fine movements, such as writing, typing, and musical performance. These sophisticated motoric behaviors are often decomposed into a sequence of simpler movements. For example, a word is decomposed into a sequence of letters, a letter can be further decomposed into strokes, and even a stroke may involve a complex movement trajectory. Such decomposition can reduce the complexity and shorten the time scale of each movement unit, which is of particular importance for the motor cortex (MC), since neurons in the MC generally show relatively simple tuning to movement features, and the tuning varies over relatively long time scales. It remains unclear, however, if primitive units exist during fine movement and how such units may be encoded in the MC. 
+## 🧠 Human Fine Motor Control
 
-Handwriting, a skill developed through years of deliberate practice, serves as an example of sophisticated fine motor control in humans. This study investigated the neural basis of handwriting by recording single-unit neural activity from human MC with two 96-channel Utah microelectrode arrays in the left hand knob area of the precentral gyrus. We studied attempted writing of Chinese characters, which are highly complex (> 3500 frequent characters composed by 32 types of strokes) and pose a great challenge for motor control. We identified that, during the writing of a character, the directional tuning of neurons alternates among a few stable states, each encoding the writing of multiple different small fragments of a character. Furthermore, the neuronal tuning during handwriting clearly changes across states. Computational models that decompose the writing process into a sequence of states better explain spiking activity from individual neurons (229% change) and better decode the handwriting based on the neural population (69% change, Fig. 1h), compared to a model that assumes stable neuronal tuning throughout the writing of a Chinese character.
+Humans excel at controlling **sophisticated fine movements**, such as:
+- ✍️ Writing  
+- ⌨️ Typing  
+- 🎼 Musical performance  
+
+### 🔁 Hierarchical Decomposition of Movements
+
+These complex motor behaviors are often **decomposed into simpler units**:
+- **Word** → sequence of **letters**
+- **Letter** → sequence of **strokes**
+- **Stroke** → complex **movement trajectory**
+
+👉 This decomposition:
+- **Reduces complexity**
+- **Shortens the time scale** of each movement unit
+- **Aligns with neural characteristics** of the **motor cortex (MC)**:
+  - Neurons in MC show **simple tuning** to movement features
+  - Tuning varies over **long time scales**
+
+> ❓ However, it remains unclear whether **primitive units** exist during fine movements, and how such units are **encoded in the motor cortex**.
+
+---
+
+## ✍️ Handwriting as a Model of Fine Motor Control
+
+Handwriting is a **learned fine motor skill**, developed through **years of practice**.
+
+### 🧪 Experimental Design
+
+- **Neural recording**: Single-unit activity from human **motor cortex (MC)**
+- **Technology**: Two **96-channel Utah microelectrode arrays**
+- **Recording site**: **Left hand knob area** of the **precentral gyrus**
+- **Task**: Attempted **writing of Chinese characters**
+  - ➕ Highly complex characters: **> 3500 common characters**
+  - 🖋️ Composed of **32 stroke types**
+
+---
+
+## 🔍 Key Findings
+
+### 1. **Stable Neural Tuning States**
+
+- During handwriting, **neuronal directional tuning alternates** between a **few stable states**
+- Each state corresponds to the writing of **multiple small fragments** of a character
+
+### 2. **Dynamic Transitions Between States**
+
+- Neuronal tuning **clearly changes across states**
+- Suggests **state-based representation** of motor components
+- Challenges the assumption of **static tuning during continuous movement**
+
+---
+
+## 🧮 Computational Modeling
+
+### 🔄 State-Based vs. Stable Tuning Models
+
+| Model Type             | Description                                           | Performance Improvement |
+|------------------------|-------------------------------------------------------|--------------------------|
+| **State-based model**  | Decomposes writing into a **sequence of neural states** | 🔼 +229% spiking activity explanation<br>🔼 +69% handwriting decoding accuracy |
+| **Stable tuning model**| Assumes **unchanging neural tuning**                 | 🔽 Lower performance     |
+
+> 🧠 State-based models better capture the **temporal dynamics** of neuronal tuning during fine motor behaviors like handwriting.
+
+---
+
+## ✅ Conclusion
+
+This study demonstrates that:
+- **Fine movements**, like handwriting, involve **alternating stable neural tuning states**
+- These states encode **modular movement fragments**
+- Modeling the writing process as a sequence of tuning states:
+  - Enhances our understanding of **motor cortex encoding**
+  - Improves decoding accuracy in brain-computer interface applications
+
