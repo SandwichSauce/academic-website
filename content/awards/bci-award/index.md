@@ -1,7 +1,7 @@
 ---
 
 title: SPOTLIGHT POSTER AWARD
-url: https://caai.cn/index.php?s=/home/article/detail/id/4390.html
+event_url: https://caai.cn/index.php?s=/home/article/detail/id/4390.html
 certificate_url: https://www.datacamp.com
 date: '2024-12-20'
 awarder: The Chinese Conference on Brain-Machine Intelligence
