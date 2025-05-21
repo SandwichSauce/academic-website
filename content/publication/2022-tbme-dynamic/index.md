@@ -42,7 +42,7 @@ abstract: 'Objective: Brain-machine interfaces (BMIs) aim to provide direct brai
 
 
 # Summary. An optional shortened abstract.
-summary: IEEE Trans on Biomedical Engineering · A dynamic ensemble Bayesian filter (DyEnsemble) is proposed to improve the robustness of online brain-machine interface (BMI) control by adaptively combining multiple neural decoding models to handle neural signal variability, showing significantly better accuracy and stability than conventional methods.
+summary: IEEE Trans on Biomedical Engineering | A dynamic ensemble Bayesian filter (DyEnsemble) is proposed to improve the robustness of online brain-machine interface (BMI) control by adaptively combining multiple neural decoding models to handle neural signal variability, showing significantly better accuracy and stability than conventional methods.
 
 tags:
   - Brain-Computer Interface
