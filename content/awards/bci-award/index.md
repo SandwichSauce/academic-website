@@ -12,6 +12,9 @@ date: '2024-10-08'
 # icon: "customs/bciaward"
 summary: |
   We demonstrated that the human motor cortex encodes complex handwriting movement by sequencing a small set of primitive states. The tuning function of neurons remains stable within states while varying largely among different states, which could be the key factor to inaccurate decoding. Based on this, we proposed state-dependent neural encoding and decoding computing models that better explained neural activities and handwriting trajectory decoding performance, enabling online decoding of recognizable Chinese characters.
+
+abstract: We demonstrated that the human motor cortex encodes complex handwriting movement by sequencing a small set of primitive states. The tuning function of neurons remains stable within states while varying largely among different states, which could be the key factor to inaccurate decoding. Based on this, we proposed state-dependent neural encoding and decoding computing models that better explained neural activities and handwriting trajectory decoding performance, enabling online decoding of recognizable Chinese characters.
+
 certificate_url: https://www.datacamp.com
 
 authors:
