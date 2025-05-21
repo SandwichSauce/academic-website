@@ -27,7 +27,7 @@ tags:
   - Domain Adaptation
   - Brain-Computer Interface
 
-featured: true
+featured: false
 
 
 # Custom links (uncomment lines below)

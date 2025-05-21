@@ -35,8 +35,25 @@ tags:
   - Brain-Computer Interface
   - Handwriting
 
+
+
 featured: true
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- Handwriting
 
 # Custom links (uncomment lines below)
 links:
@@ -54,5 +71,14 @@ url_source: ''
 url_video: 'https://github.com/SandwichSauce/academic-website/tree/main/content/publication/2025-nhb-human/2025-nhb-human-video.mp4'
 
 
-
 ---
+
+<!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+
+
