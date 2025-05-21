@@ -65,11 +65,23 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: resume-awards
+  - block: collection
     id: awards
     content:
       title: Awards
-      username: admin
+      filters:
+        folders:
+          - awards
+        featured_only: true
+    design:
+      view: article-grid
+      columns:3
+
+  # - block: resume-awards
+  #   id: awards
+  #   content:
+  #     title: Awards
+  #     username: admin
 
 
 
