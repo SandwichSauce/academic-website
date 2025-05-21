@@ -1,9 +1,14 @@
 ---
 
 title: BCI AWARD NOMINEE
-date: '2024-10-08'
+
 event: 2024 International BCI AWARD
 event_url: https://www.bci-award.com/2024
+
+location: Online
+
+date: '2024-10-08'
+
 # icon: "customs/bciaward"
 summary: |
   We demonstrated that the human motor cortex encodes complex handwriting movement by sequencing a small set of primitive states. The tuning function of neurons remains stable within states while varying largely among different states, which could be the key factor to inaccurate decoding. Based on this, we proposed state-dependent neural encoding and decoding computing models that better explained neural activities and handwriting trajectory decoding performance, enabling online decoding of recognizable Chinese characters.
