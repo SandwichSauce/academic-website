@@ -17,7 +17,7 @@ abstract: Neural signals are typical nonstationary data where the functional map
 
 
 # Summary. An optional shortened abstract.
-summary: NeurIPS | A novel evolutionary ensemble framework, EvoEnsemble, dynamically adapts to changes in neural signals by evolving decoders over time, significantly improving the accuracy and robustness of neural decoding in nonstationary conditions.
+summary: NeurIPS · A novel evolutionary ensemble framework, EvoEnsemble, dynamically adapts to changes in neural signals by evolving decoders over time, significantly improving the accuracy and robustness of neural decoding in nonstationary conditions.
 
 tags:
   - Decoding Algorithm

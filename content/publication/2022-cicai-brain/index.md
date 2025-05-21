@@ -33,7 +33,7 @@ abstract: Brain-computer interface (BCI) provides a direct pathway from the brai
 
 
 # Summary. An optional shortened abstract.
-summary: CICAI | An AI-augmented brain-computer interface is developed for a mahjong game, enabling easier and more precise control by allowing users to select from AI-suggested options, thus improving usability and user experience in a real BCI application.
+summary: CICAI · An AI-augmented brain-computer interface is developed for a mahjong game, enabling easier and more precise control by allowing users to select from AI-suggested options, thus improving usability and user experience in a real BCI application.
 
 tags:
   - Brain-Computer Interface

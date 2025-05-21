@@ -20,7 +20,7 @@ abstract: Brain-computer interfaces (BCIs) offer a means to convert neural signa
 
 
 # Summary. An optional shortened abstract.
-summary: BIBM | This paper proposes SeSA, a semi-supervised domain adaptation framework that improves BCI recalibration by aligning both global and speed-specific neural features, achieving robust decoding across days despite neural nonstationarities.
+summary: BIBM · This paper proposes SeSA, a semi-supervised domain adaptation framework that improves BCI recalibration by aligning both global and speed-specific neural features, achieving robust decoding across days despite neural nonstationarities.
 
 tags:
   - Decoding Algorithm
