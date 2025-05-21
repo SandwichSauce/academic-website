@@ -75,7 +75,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns:3
+      columns: 3
 
   # - block: resume-awards
   #   id: awards
