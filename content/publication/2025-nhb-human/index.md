@@ -70,7 +70,6 @@ url_slides: ''
 url_source: ''
 url_video: 'https://github.com/SandwichSauce/academic-website/tree/main/content/publication/2025-nhb-human/2025-nhb-human-video.mp4'
 
-
 ---
 
 <!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
@@ -81,7 +80,11 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
-### Neural Encoding of Fine Motor Control: A Study on Handwriting
+---
+
+Neural Encoding of Fine Motor Control: A Study on Handwriting
+
+---
 
 ## 🧠 Human Fine Motor Control
 
