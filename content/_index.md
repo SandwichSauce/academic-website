@@ -55,41 +55,24 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: resume-experience
-    id: experience
+  - block: collection
     content:
-      username: admin
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
+      view: citation
   - block: resume-awards
     id: awards
     content:
       title: Awards
       username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
 
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
+
+
   # - block: collection
   #   id: talks
   #   content:
