@@ -1,13 +1,14 @@
 ---
 
-title: BCI AWARD NOMINEE
-event_url: https://www.bci-award.com/2024
-date: '2024-10-08'
-awarder: 2024 International BCI AWARD
-icon: "customs/bciaward"
-summary: |
-  We demonstrated that the human motor cortex encodes complex handwriting movement by sequencing a small set of primitive states. The tuning function of neurons remains stable within states while varying largely among different states, which could be the key factor to inaccurate decoding. Based on this, we proposed state-dependent neural encoding and decoding computing models that better explained neural activities and handwriting trajectory decoding performance, enabling online decoding of recognizable Chinese characters.
+title: SPOTLIGHT POSTER AWARD
+event_url: https://caai.cn/index.php?s=/home/article/detail/id/4390.html
 certificate_url: https://www.datacamp.com
+date: '2024-12-20'
+awarder: The Chinese Conference on Brain-Machine Intelligence
+icon: datacamp
+# image: assets/media/weixinQRcode.png
+summary: |
+  Leveraging the unique paradigm of Chinese character writing, this study uncovered a novel mechanism of sequential regulation in the brain’s encoding of complex motor sequences, based on activity in the human motor cortex. Building on this discovery, a state-dependent motor encoding and decoding model was developed, culminating in the creation of China’s first brain-controlled robotic arm system capable of writing Chinese characters.
 
 authors:
   - admin
@@ -45,7 +46,8 @@ featured: true
 
 # tags: []
 
-
+# # Is this a featured talk? (true/false)
+# featured: false
 
 image:
   caption: 'assets/media/weixinQRcode.png'
