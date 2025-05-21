@@ -1,10 +1,10 @@
 ---
 
 title: BEST POSTER AWARD
+event: The 3rd International Workshop on Neural Engineering and Rehabilitation
 event_url: https://www.zjbmi.com/workshop-ner2022/
 date: '2022-05-09'
-awarder: The 3rd International Workshop on Neural Engineering and Rehabilitation
-icon: edx
+# icon: edx
 summary: |
   One critical problem in BCI systems is how to achieve robust control. The challenge lies in the variability of neural signals, that can be induced by: noises and variability of neural encoding associates with brain states. When neural signal changes, there can be decoding errors given a static neural decoder, exhibiting unstable BCI control. Ideally, a neural decoder should dynamically change along with changes in neural signals to achieve robust control. But how to achieve this? We propose a DyEnsemble model, which builds a pool of models to encode various neural functions, assigns the model weights dynamically according to the incoming neural signals, and assembles them in time with Bayesian model averaging rules. In this way, our decoder adjusts itself along with changes in neural signals. 
 
@@ -47,9 +47,9 @@ featured: true
 # # Is this a featured talk? (true/false)
 # featured: false
 
-image:
-  caption: 'assets/media/weixinQRcode.png'
-  focal_point: Right
+# image:
+#   caption: 'assets/media/weixinQRcode.png'
+#   focal_point: Right
 
 # projects:
 #   - example
