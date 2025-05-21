@@ -67,7 +67,7 @@ url_video: ''
 
 ## 🎯 Research Goal
 Understanding how **motor cortex (MC)** encodes and decodes **movement behaviors** is a **fundamental goal of neuroscience**  
-(Cited: Kriegeskorte & Douglas, 2019; Saxena & Cunningham, 2019)
+(Kriegeskorte & Douglas, 2019; Saxena & Cunningham, 2019)
 
 - **Behavior** = Measured task-specific behavioral variables (e.g., **arm kinematics**)
 - Terms like **"behaviorally relevant"** or **"irrelevant"** refer only to these variables
